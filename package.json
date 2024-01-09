@@ -1,0 +1,24 @@
+{
+  "name": "seo-plugin",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "seo-plugin",
+    "description": "Description of seo-plugin plugin",
+    "kind": "plugin"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "An AiCodePro developer"
+  },
+  "maintainers": [
+    {
+      "name": "An AiCodePro developer"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

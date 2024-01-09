@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ms_seo_reports",
+  "info": {
+    "singularName": "report",
+    "pluralName": "reports",
+    "displayName": "SEO_Report"
+  },
+  "options": {
+    "draftAndPublish": false,
+    "comment": ""
+  },
+  "attributes": {
+    "tenantId": {
+      "type": "integer"
+    },
+    "storeId": {
+      "type": "integer"
+    }
+  }
+}
